@@ -1,9 +1,0 @@
-asset_id,asset_name,asset_type,business_criticality,environment,owner_department,internet_facing
-A-001,Customer Database,Database,High,Production,Finance,Yes
-A-002,Employee Laptop Fleet,Endpoint,Medium,Production,HR,No
-A-003,Public Web Server,Server,High,Production,Customer Operations,Yes
-A-004,Internal Wiki,Application,Low,Internal,IT,No
-A-005,Payment Processing Server,Server,Critical,Production,Finance,Yes
-A-006,Backup Storage,Storage,High,Production,IT,Yes
-A-007,Development VM,Server,Medium,Development,Engineering,No
-A-008,Identity Provider,Application,Critical,Production,IT,Yes
