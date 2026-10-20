@@ -1,0 +1,9 @@
+vulnerability_id,asset_id,finding,cvss_score,severity,status,identified_date,asset_name,asset_type,business_criticality,environment,owner_department,internet_facing,criticality_points,internet_points,risk_score,risk_rating
+V-006,A-008,Privileged access review missing,8.8,High,In Progress,2026-09-25,Identity Provider,Application,Critical,Production,IT,Yes,4,4,92.8,Critical
+V-004,A-005,Weak TLS configuration,8.2,High,Open,2026-09-15,Payment Processing Server,Server,Critical,Production,Finance,Yes,4,4,89.2,Critical
+V-001,A-003,Outdated web server package,9.1,High,Open,2026-09-20,Public Web Server,Server,High,Production,Customer Operations,Yes,3,4,88.4,Critical
+V-002,A-001,Database patch missing,7.5,High,In Progress,2026-10-01,Customer Database,Database,High,Production,Finance,Yes,3,4,78.8,High
+V-009,A-001,Encryption setting not verified,6.8,Medium,Open,2026-10-02,Customer Database,Database,High,Production,Finance,Yes,3,4,74.6,High
+V-008,A-007,Development default credentials,9.6,Critical,Open,2026-10-10,Development VM,Server,Medium,Development,Engineering,No,2,1,73.8,High
+V-005,A-006,Backup access review overdue,6.1,Medium,Open,2026-09-30,Backup Storage,Storage,High,Production,IT,Yes,3,4,70.4,High
+V-003,A-002,Endpoint protection outdated,5.4,Medium,Open,2026-10-05,Employee Laptop Fleet,Endpoint,Medium,Production,HR,No,2,1,48.7,Medium
